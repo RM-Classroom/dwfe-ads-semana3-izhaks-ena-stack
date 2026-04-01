@@ -11,6 +11,7 @@
 .direita {
     flex: 2;
     background-color: #ffffff;
+    
 }
 
 body {
@@ -33,4 +34,11 @@ body {
     flex: 2;
     background-color: #ffffff;
     padding: 20px;
+}
+.titulo-principal { /*serve marcar um texto como título principal e uma descrição, e aproxima-los*/
+    margin-bottom: 5px;
+}
+
+.descricao {
+    margin-top: 0;
 }
