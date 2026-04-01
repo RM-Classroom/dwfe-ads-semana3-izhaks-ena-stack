@@ -2,5 +2,5 @@
 # Matrícula: 1658233
 
 ## Print Curriculo
-![Curriculo](images/tudo.png)
+![Curriculo](public/tudo.png)
 
