@@ -1,0 +1,36 @@
+
+.container {
+    display: flex;
+
+}
+.esquerda {
+    flex: 1;
+    background-color: #eaeaea;
+}
+
+.direita {
+    flex: 2;
+    background-color: #ffffff;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.esquerda {
+    flex: 1;
+    background-color: #515151;
+    color: white;
+    padding: 20px;
+}
+
+.direita {
+    flex: 2;
+    background-color: #ffffff;
+    padding: 20px;
+}
